@@ -19,6 +19,9 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
+        "../node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.css",
+        "../node_modules/bootstrap-rtl/dist/css/bootstrap-rtl.css",
         "styles.css"
       ],
       "scripts": [],
